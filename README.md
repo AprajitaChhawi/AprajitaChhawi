@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi 👋 This is Aprajita
 
-- 🔭 I’m currently working at Cognizant as an Intern.
 - 🌱 I’m currently learning Octave and Data science.
 - 💬 Ask me about some easy predictions 
 - 📫 How to reach me:
