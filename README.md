@@ -1,6 +1,6 @@
 ### Hi 👋 This is Aprajita
 
-- 🌱 I’m currently learning Octave and Data science.
+- 🌱 I’m currently learning Data science.
 - 💬 Ask me about some easy predictions 
 - 📫 How to reach me:
 
