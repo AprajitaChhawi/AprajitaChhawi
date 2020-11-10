@@ -1,7 +1,7 @@
 ### Hi 👋 This is Aprajita
 
-- 🌱 I’m currently learning Data science.
-- 💬 Ask me about some easy predictions 
+- 🌱 I’m currently enrolled in #30DaysofGoogleCloud.
+- 💬 Added a new prank Code(try closing it :)) 
 - 📫 How to reach me:
 
 [![Twitter](https://img.shields.io/twitter/follow/AprajitaChhawi?style=social)](https://twitter.com/AprajitaChhawi/)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/aprajita-chhawi-a5584b176/)](https://www.linkedin.com/in/aprajita-chhawi-a5584b176/) 
