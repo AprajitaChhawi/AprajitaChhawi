@@ -1,6 +1,6 @@
 ### Hi 👋 This is Aprajita
 
-- 🌱 I’m currently enrolled in #30DaysofGoogleCloud.
+- 🌱 I’m currently learning natural language processing.
 - 💬 Added a new prank Code(try closing it :)) 
 - 📫 How to reach me:
 
