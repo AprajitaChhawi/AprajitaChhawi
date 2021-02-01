@@ -1,7 +1,7 @@
 ### Hi 👋 This is Aprajita
 
 - 🌱 I’m currently learning natural language processing.
-- 💬 Added a new (CARTOON REPOSITORY)(try your own image in it by google colab :)) 
+- 💬 Added the January edition of #365DaysOfCode   
 - 📫 How to reach me:
 
 [![Twitter](https://img.shields.io/twitter/follow/AprajitaChhawi?style=social)](https://twitter.com/AprajitaChhawi/)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/aprajita-chhawi-a5584b176/)](https://www.linkedin.com/in/aprajita-chhawi-a5584b176/) 
