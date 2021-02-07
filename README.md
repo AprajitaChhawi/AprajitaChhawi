@@ -4,7 +4,7 @@
 - 💬 Added the January edition of #365DaysOfCode   
 - 📫 How to reach me:
 
-[![Twitter](https://img.shields.io/twitter/follow/AprajitaChhawi?style=social)](https://twitter.com/AprajitaChhawi/)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/aprajita-chhawi-a5584b176/)](https://www.linkedin.com/in/aprajita-chhawi-a5584b176/) 
+[![Twitter](https://img.shields.io/twitter/follow/AprajitaChhawi?style=social)](https://twitter.com/AprajitaChhawi/)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/aprajita-chhawi-a5584b176/)](https://www.linkedin.com/in/aprajita-chhawi-a5584b176/) [![GitHub Aprajita ](https://img.shields.io/github/followers/AprajitaChhawi?label=follow&style=social)](https://github.com/AprajitaChhawi)  <a href="https://dev.to/AprajitaChhawi">
 _________________________________________________________________
 _________________________________________________________________
 
