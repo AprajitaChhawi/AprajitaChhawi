@@ -1,6 +1,6 @@
 ### Hi 👋 This is Aprajita
 
-- 🌱 I’m currently learning natural language processing.
+- 🌱 I’m currently attending a cousre on cousrera named "GOOGLE DATA ANALYTICS".
 - 💬 Added the April edition of #365DaysOfCode   
 - 📫 How to reach me:
 
