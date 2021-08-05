@@ -1,6 +1,6 @@
 ### Hi 👋 This is Aprajita
 
-- 🌱 I’m currently attending a cousre on cousrera named "GOOGLE DATA ANALYTICS".
+- 🌱 I’m currently attending a course on cousrera named "GOOGLE DATA ANALYTICS".
 - 💬 Added the May edition of #365DaysOfCode   
 - 📫 How to reach me:
 
