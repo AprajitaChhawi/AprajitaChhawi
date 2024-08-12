@@ -9,6 +9,10 @@ _________________________________________________________________
 _________________________________________________________________
 
  ![github stats](https://github-readme-stats.vercel.app/api?username=AprajitaChhawi&show_icons=true&count_private=true&include_all_commits=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AprajitaChhawi&layout=compact)](https://github.com/AprajitaChhawi/)     
+
+
+[![Aprajita Chhawi](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bitwisekinza)](https://auth.geeksforgeeks.org/user/bitwisekinza/)
+
  
  
  <img src="https://komarev.com/ghpvc/?username=AprajitaChhawi" alt="AprajitaChhawi" />
