@@ -2,7 +2,11 @@
   
 - 📫 How to reach me:
 
-[![Twitter](https://img.shields.io/twitter/follow/AprajitaChhawi?style=social)](https://twitter.com/AprajitaChhawi/)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/aprajita-chhawi-a5584b176/)](https://www.linkedin.com/in/aprajita-chhawi-a5584b176/) [![GitHub Aprajita ](https://img.shields.io/github/followers/AprajitaChhawi?label=follow&style=social)](https://github.com/AprajitaChhawi)  <a href="https://dev.to/AprajitaChhawi">
+[![Twitter](https://img.shields.io/twitter/follow/AprajitaChhawi?style=social)](https://twitter.com/AprajitaChhawi/)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aprajita-chhawi-a5584b176/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.linkedin.com/in/aprajita-chhawi-a5584b176/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Aprajitachhawi/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aprajitachhawi@gmail.com)
 _________________________________________________________________
 _________________________________________________________________
 
@@ -11,6 +15,7 @@ _________________________________________________________________
 
 [![Aprajita Chhawi](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bitwisekinza)](https://auth.geeksforgeeks.org/user/bitwisekinza/)
 
-[![Aprajita LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Aprajitachhawi)](https://github.com/Aprajitachhawi/leetcode-stats)
- 
+
+
+
  <img src="https://komarev.com/ghpvc/?username=AprajitaChhawi" alt="AprajitaChhawi" />
