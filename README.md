@@ -11,6 +11,6 @@ _________________________________________________________________
 
 [![Aprajita Chhawi](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bitwisekinza)](https://auth.geeksforgeeks.org/user/bitwisekinza/)
 
- 
+[![Aprajita LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Aprajitachhawi)](https://github.com/Aprajitachhawi/leetcode-stats)
  
  <img src="https://komarev.com/ghpvc/?username=AprajitaChhawi" alt="AprajitaChhawi" />
